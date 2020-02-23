@@ -20,8 +20,7 @@ product in the last two years. This table includes:
 --------GUEST_INVITE: invited to an organization as a guest (limited permissions)  
 --------ORG_INVITE: invited to an organization (as a full member)    
 --------SIGNUP: signed up via the website
---------SIGNUP_GOOGLE_AUTH: signed up using Google Authentication (using a Google email\
-account for their login id)   
+--------SIGNUP_GOOGLE_AUTH: signed up using Google Authentication (using a Google emailaccount for their login id)   
 			
 ● creation_time: when they created their account  
 ● last_session_creation_time: unix timestamp of last login  
