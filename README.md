@@ -19,7 +19,7 @@ product in the last two years. This table includes:
 --------PERSONAL_PROJECTS: invited to join another user's personal workspace  
 --------GUEST_INVITE: invited to an organization as a guest (limited permissions)  
 --------ORG_INVITE: invited to an organization (as a full member)    
---------SIGNUP: signed up via the website
+--------SIGNUP: signed up via the website   
 --------SIGNUP_GOOGLE_AUTH: signed up using Google Authentication (using a Google emailaccount for their login id)   
 			
 ● creation_time: when they created their account  
