@@ -1,4 +1,4 @@
-# mini_project_17.2_predict_user_adoption
+# predict_user_adoption
  
 The project involves identifying which factors predict future user\
 adoption where an "adopted user" is defined as a user who has logged into the product on \
